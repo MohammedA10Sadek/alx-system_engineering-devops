@@ -1,1 +1,1 @@
-readme file for this directory
+readme file for 0x00 shell project
